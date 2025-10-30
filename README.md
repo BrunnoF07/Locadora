@@ -1,4 +1,5 @@
 AP2 de Linguagem Orientada a Objetos
+
  Sistema de Gerenciamento de Locadora de Jogos
 Este projeto é um sistema simples em Python para gerenciar o aluguel de jogos, clientes e o cálculo de multas por atraso.
 O sistema foi desenvolvido como atividade acadêmica, com foco em:
